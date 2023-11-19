@@ -1,7 +1,7 @@
-名字: example-environment
+name: example-environment
 channels:
   - conda-forge
-依赖:
+dependencies:
   - python=3.11
   - numpy
   - psutil
